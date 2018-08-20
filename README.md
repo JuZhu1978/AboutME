@@ -7,4 +7,11 @@ Ju Zhu has 6+ years of experience in Advanced Threat Research. Now he work for M
 
 ### 2015
 http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp-sextortion-in-the-far-east.pdf
+http://blog.trendmicro.com/trendlabs-security-intelligence/the-samsung-swiftkey-vulnerability-what-you-need-to-know-and-how-to-protect-yourself
+http://blog.trendmicro.com/trendlabs-security-intelligence/sinking-into-the-ios-quicksand-vulnerability
+http://blog.trendmicro.com/trendlabs-security-intelligence/the-xcodeghost-plague-how-did-it-happen
+
+### 2016
+http://blog.trendmicro.com/trendlabs-security-intelligence/android-based-smart-tvs-hit-by-backdoor-spread-via-malicious-app
+https://support.apple.com/en-us/HT205732 (CVE-2016-1721)
 
