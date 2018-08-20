@@ -24,3 +24,15 @@ http://blog.trendmicro.com/trendlabs-security-intelligence/how-a-third-party-app
 http://blog.trendmicro.com/trendlabs-security-intelligence/helper-haima-malicious-behavior
 http://blog.trendmicro.com/trendlabs-security-intelligence/ios-masque-attack-spoof-apps-bypass-privacy-protection
 ```
+
+### 2017
+```
+http://blog.trendmicro.com/trendlabs-security-intelligence/ixintpwn-yjsnpi-abuses-ioss-config-profile-can-crash-devices
+http://blog.trendmicro.com/trendlabs-security-intelligence/app-stores-formerly-coddled-zniu-found-distributing-new-ixintpwnyjsnpi-variant
+```
+
+### 2018
+```
+https://www.blackhat.com/asia-18/briefings.html#death-profile
+https://www.blackhat.com/us-18/arsenal/schedule/#art-of-dancing-with-shackles---best-practice-of-app-store-malware-automatic-hunting-system-12078
+```
