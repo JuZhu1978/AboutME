@@ -6,4 +6,5 @@ Ju Zhu has 6+ years of experience in Advanced Threat Research. Now he work for M
 ## Research Results
 
 ### 2015
+http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp-sextortion-in-the-far-east.pdf
 
