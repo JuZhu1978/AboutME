@@ -17,4 +17,10 @@ http://blog.trendmicro.com/trendlabs-security-intelligence/the-xcodeghost-plague
 ```
 http://blog.trendmicro.com/trendlabs-security-intelligence/android-based-smart-tvs-hit-by-backdoor-spread-via-malicious-app
 https://support.apple.com/en-us/HT205732 (CVE-2016-1721)
+https://support.apple.com/en-us/HT206902 (CVE-2016-4627, CVE-2016-4628, CVE-2016-4653)
+https://support.apple.com/en-us/HT207422 (CVE-2016-7651)
+http://blog.trendmicro.com/trendlabs-security-intelligence/courier-scammers-intercept-text-messages-leave-traces-google-play
+http://blog.trendmicro.com/trendlabs-security-intelligence/how-a-third-party-app-store-abuses-apples-developer-enterprise-program-to-serve-adware
+http://blog.trendmicro.com/trendlabs-security-intelligence/helper-haima-malicious-behavior
+http://blog.trendmicro.com/trendlabs-security-intelligence/ios-masque-attack-spoof-apps-bypass-privacy-protection
 ```
