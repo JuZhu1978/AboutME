@@ -7,37 +7,46 @@ https://www.blackhat.com/asia-18/speakers/Ju-Zhu.html
 
 https://www.blackhat.com/us-18/presenters/Ju-Zhu.html
 
+
 ## Research Results
 
 ### 2015
-```
 http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp-sextortion-in-the-far-east.pdf
+
 http://blog.trendmicro.com/trendlabs-security-intelligence/the-samsung-swiftkey-vulnerability-what-you-need-to-know-and-how-to-protect-yourself
+
 http://blog.trendmicro.com/trendlabs-security-intelligence/sinking-into-the-ios-quicksand-vulnerability
+
 http://blog.trendmicro.com/trendlabs-security-intelligence/the-xcodeghost-plague-how-did-it-happen
-```
+
 
 ### 2016
-```
 http://blog.trendmicro.com/trendlabs-security-intelligence/android-based-smart-tvs-hit-by-backdoor-spread-via-malicious-app
+
 https://support.apple.com/en-us/HT205732 (CVE-2016-1721)
+
 https://support.apple.com/en-us/HT206902 (CVE-2016-4627, CVE-2016-4628, CVE-2016-4653)
+
 https://support.apple.com/en-us/HT207422 (CVE-2016-7651)
+
 http://blog.trendmicro.com/trendlabs-security-intelligence/courier-scammers-intercept-text-messages-leave-traces-google-play
+
 http://blog.trendmicro.com/trendlabs-security-intelligence/how-a-third-party-app-store-abuses-apples-developer-enterprise-program-to-serve-adware
+
 http://blog.trendmicro.com/trendlabs-security-intelligence/helper-haima-malicious-behavior
+
 http://blog.trendmicro.com/trendlabs-security-intelligence/ios-masque-attack-spoof-apps-bypass-privacy-protection
-```
+
 
 ### 2017
-```
 http://blog.trendmicro.com/trendlabs-security-intelligence/ixintpwn-yjsnpi-abuses-ioss-config-profile-can-crash-devices
+
 http://blog.trendmicro.com/trendlabs-security-intelligence/app-stores-formerly-coddled-zniu-found-distributing-new-ixintpwnyjsnpi-variant
-```
+
 
 ### 2018
-```
 https://www.blackhat.com/asia-18/briefings.html#death-profile
+
 https://www.blackhat.com/us-18/arsenal/schedule/#art-of-dancing-with-shackles---best-practice-of-app-store-malware-automatic-hunting-system-12078
+
 CVE-2018-XXX, coming soon
-```
