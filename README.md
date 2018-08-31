@@ -7,7 +7,6 @@ https://www.blackhat.com/asia-18/speakers/Ju-Zhu.html
 
 https://www.blackhat.com/us-18/presenters/Ju-Zhu.html
 
-
 ## Research Results
 
 ### 2015
@@ -18,7 +17,6 @@ http://blog.trendmicro.com/trendlabs-security-intelligence/the-samsung-swiftkey-
 http://blog.trendmicro.com/trendlabs-security-intelligence/sinking-into-the-ios-quicksand-vulnerability
 
 http://blog.trendmicro.com/trendlabs-security-intelligence/the-xcodeghost-plague-how-did-it-happen
-
 
 ### 2016
 http://blog.trendmicro.com/trendlabs-security-intelligence/android-based-smart-tvs-hit-by-backdoor-spread-via-malicious-app
@@ -37,12 +35,10 @@ http://blog.trendmicro.com/trendlabs-security-intelligence/helper-haima-maliciou
 
 http://blog.trendmicro.com/trendlabs-security-intelligence/ios-masque-attack-spoof-apps-bypass-privacy-protection
 
-
 ### 2017
 http://blog.trendmicro.com/trendlabs-security-intelligence/ixintpwn-yjsnpi-abuses-ioss-config-profile-can-crash-devices
 
 http://blog.trendmicro.com/trendlabs-security-intelligence/app-stores-formerly-coddled-zniu-found-distributing-new-ixintpwnyjsnpi-variant
-
 
 ### 2018
 https://www.blackhat.com/asia-18/briefings.html#death-profile
