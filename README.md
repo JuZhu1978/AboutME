@@ -33,7 +33,7 @@ http://blog.trendmicro.com/trendlabs-security-intelligence/how-a-third-party-app
 
 http://blog.trendmicro.com/trendlabs-security-intelligence/helper-haima-malicious-behavior
 
-http://blog.trendmicro.com/trendlabs-security-intelligence/ios-masque-attack-spoof-apps-bypass-privacy-protection
+http://blog.trendmicro.com/trendlabs-security-intelligence/ios-masque-attack-spoof-apps-bypass-privacy-protection (CVE-2016-4606, CVE-2016-4659)
 
 ### 2017
 http://blog.trendmicro.com/trendlabs-security-intelligence/ixintpwn-yjsnpi-abuses-ioss-config-profile-can-crash-devices
