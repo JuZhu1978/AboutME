@@ -45,4 +45,4 @@ https://www.blackhat.com/asia-18/briefings.html#death-profile
 
 https://www.blackhat.com/us-18/arsenal/schedule/#art-of-dancing-with-shackles---best-practice-of-app-store-malware-automatic-hunting-system-12078
 
-CVE-2018-XXX, coming soon
+https://support.apple.com/en-us/HT209106 （Acknowledge）
