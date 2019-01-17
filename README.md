@@ -50,3 +50,6 @@ https://www.blackhat.com/us-18/arsenal/schedule/#art-of-dancing-with-shackles---
 https://support.apple.com/en-us/HT209106 （Acknowledge）
 
 https://codeblue.jp/2018/en/talks (Wow, PESSR has Eroded Apple in Blink)
+
+### 2019
+Focus iOS VM Development
