@@ -42,6 +42,8 @@ http://blog.trendmicro.com/trendlabs-security-intelligence/ixintpwn-yjsnpi-abuse
 
 http://blog.trendmicro.com/trendlabs-security-intelligence/app-stores-formerly-coddled-zniu-found-distributing-new-ixintpwnyjsnpi-variant
 
+https://www.thecss.cn/2017/agenda.html (TSec, Chinese)
+
 ### 2018
 https://www.blackhat.com/asia-18/briefings.html#death-profile
 
@@ -54,4 +56,4 @@ https://support.apple.com/en-us/HT209106 （Acknowledge）
 https://codeblue.jp/2018/en/talks (Wow, PESSR has Eroded Apple in Blink)
 
 ### 2019
-Focus iOS VM Development
+http://kcon.knownsec.com/2019 (Chinese)
