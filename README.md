@@ -57,4 +57,5 @@ https://codeblue.jp/2018/en/talks (Wow, PESSR has Eroded Apple in Blink)
 
 ### 2019
 http://kcon.knownsec.com/2019 (Chinese)
+
 https://mp.weixin.qq.com/s/FK5bEOoaDX0fxNnuf9iTzA (Chinese)
