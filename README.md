@@ -42,7 +42,7 @@ http://blog.trendmicro.com/trendlabs-security-intelligence/ixintpwn-yjsnpi-abuse
 
 http://blog.trendmicro.com/trendlabs-security-intelligence/app-stores-formerly-coddled-zniu-found-distributing-new-ixintpwnyjsnpi-variant
 
-https://www.thecss.cn/2017/agenda.html (TSec, Chinese)
+https://mp.weixin.qq.com/s/ZtCjdFZ8N5N38xaEjiO6Pg (TSec, Chinese)
 
 ### 2018
 https://www.blackhat.com/asia-18/briefings.html#death-profile
