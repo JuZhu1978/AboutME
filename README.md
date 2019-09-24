@@ -56,10 +56,6 @@ https://support.apple.com/en-us/HT209106 （Acknowledge）
 https://codeblue.jp/2018/en/talks (Wow, PESSR has Eroded Apple in Blink)
 
 ### 2019
-http://kcon.knownsec.com/2019 (Chinese)
-
-https://mp.weixin.qq.com/s/FK5bEOoaDX0fxNnuf9iTzA (Chinese)
-
-https://mp.weixin.qq.com/s/skgrUPBZ4X5L3IpL_x4oUQ (Chinese)
+https://mp.weixin.qq.com/s/skgrUPBZ4X5L3IpL_x4oUQ (KCon，Chinese)
 
 https://github.com/knownsec/KCon/blob/master/2019/25%E6%97%A5/APT%E6%A3%80%E6%B5%8B%E8%AE%BE%E5%A4%87%E7%9A%84%E6%89%A9%E5%B1%95%E7%A0%94%E7%A9%B6.pdf (Chinese)
