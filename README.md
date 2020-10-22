@@ -1,7 +1,7 @@
 # AboutMe
 
 ## Bio
-Ju Zhu has 7+ years of experience in Advanced Threat Research. Now he work for Meituan. Currently, he focuses on research about 0Day, nDay and vulnerability. He has been working on using automated systems to hunt advanced threats. He has found the first malware that exploited nDay(CVE-2014-7911) to attack smart TV at Christmas in 2015. In 2016, he also found a lot of malware using 0Day(CVE-2016-4606, CVE-2016-4659, CVE-2016-7651) attack victims in the 3rd Party App Store, and named them "Landmine". In 2017, he has hunted a suspected ransomware remote attack based on profile installation towards to iOS platform distributed in the wild at the first time, and proposed one new remote attack interface on iOS system research. He named them "Death Profile" and shared the topic at BlackHat Asia 2018. In 2018, his “Art of Dancing with Shackles” was selected by BlackHat USA 2018, and he shared "Wow, PESSR has Eroded Apple in Blink" at Code Blue 2018.
+Ju Zhu has 8+ years of experience in Advanced Threat Research. Now he works for Meituan. Currently, he focuses on research about 0Day, nDay and vulnerability. He has been working on using automated systems to hunt advanced threats. He has found the first malware that exploited nDay(CVE-2014-7911) to attack smart TV at Christmas in 2015. In 2016, he also found a lot of malware using 0Day(CVE-2016-4606, CVE-2016-4659, CVE-2016-7651) attack victims in the 3rd Party App Store, and named them "Landmine". In 2017, he has hunted a suspected ransomware remote attack based on profile installation towards to iOS platform distributed in the wild at the first time, and proposed one new remote attack interface on iOS system research. He named them "Death Profile" and shared the topic at BlackHat Asia 2018. In 2018, his “Art of Dancing with Shackles” was selected by BlackHat USA 2018, and he shared "Wow, PESSR has Eroded Apple in Blink" at Code Blue 2018.
 
 https://www.blackhat.com/asia-18/speakers/Ju-Zhu.html
 
@@ -59,3 +59,5 @@ https://codeblue.jp/2018/en/talks (Wow, PESSR has Eroded Apple in Blink)
 https://mp.weixin.qq.com/s/skgrUPBZ4X5L3IpL_x4oUQ (KCon，Chinese)
 
 https://github.com/knownsec/KCon/blob/master/2019/25%E6%97%A5/APT%E6%A3%80%E6%B5%8B%E8%AE%BE%E5%A4%87%E7%9A%84%E6%89%A9%E5%B1%95%E7%A0%94%E7%A9%B6.pdf (Chinese)
+
+### 2020
